@@ -1,0 +1,10 @@
+---
+layout: default
+title:  "Morning coffee"
+date:   2016-05-07 21:12:38 -0700
+categories: two
+---
+
+###### Grignani.org
+*   [grignani.org](http://www.grignani.org/){:target="_blank"}
+*   [WordPress](http://grignani.org/wp-admin/my-sites.php){:target="_blank"}

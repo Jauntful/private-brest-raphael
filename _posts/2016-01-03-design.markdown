@@ -1,0 +1,15 @@
+---
+layout: default
+title:  "Design"
+date:   2016-01-03 21:12:38 -0700
+categories: one
+---
+
+###### Design
+*   [Dribbble](http://dribbble.com/){:target="_blank"}
+*   [Lovely UI](http://www.lovelyui.com/){:target="_blank"}
+*   [Little Big Details](http://littlebigdetails.com/){:target="_blank"}
+*   [Mobile Patterns](http://mobile-patterns.com/){:target="_blank"}
+*   [Codecademy](http://www.codecademy.com/){:target="_blank"}
+*   [patterntap](http://patterntap.com/){:target="_blank"}
+*   [Niice](http://niice.co/){:target="_blank"}

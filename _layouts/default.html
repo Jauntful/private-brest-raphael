@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+      <div class="container">
+        <div class="row">
+          <div id="one" class="col-sm-4 col-md-3">
+            {% for post in site.categories.one reversed %}
+                {{ post.content }}
+            {% endfor %}
+          </div>
+          <div id="two" class="col-sm-4 col-md-3">
+            {% for post in site.categories.two reversed %}
+                {{ post.content }}
+            {% endfor %}
+          </div>
+          <div id="three" class="col-sm-4 col-md-3">
+            {% for post in site.categories.three reversed %}
+                {{ post.content }}
+            {% endfor %}
+          </div>
+          <div id="four" class="col-sm-4 col-md-3">
+            {% for post in site.categories.four reversed %}
+                {{ post.content }}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
+  </body>
+
+</html>

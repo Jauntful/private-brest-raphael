@@ -1,0 +1,12 @@
+---
+layout: default
+title:  "Travels"
+date:   2016-05-07 21:12:38 -0700
+categories: three
+---
+###### Travels
+*   [Flight Aware](http://flightaware.com/){:target="_blank"}
+*   [Trip It](http://www.tripit.com/){:target="_blank"}
+*   [Tablet Hotels](http://www.tablethotels.com/){:target="_blank"}
+*   [Kayak](http://www.kayak.com/flights){:target="_blank"}
+*   [Hipmunk](http://www.hipmunk.com/){:target="_blank"}

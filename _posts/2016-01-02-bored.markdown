@@ -1,0 +1,17 @@
+---
+layout: default
+title:  "Bored"
+date:   2016-01-02 21:12:38 -0700
+categories: one
+---
+###### I must be bored
+*   [Goodreads](http://www.goodreads.com/user/sign_in){:target="_blank"}
+*   [Evernote](http://www.evernote.com/){:target="_blank"}
+*   [Facebook](http://www.facebook.com/){:target="_blank"}
+*   [LinkedIn](https://www.linkedin.com/uas/login){:target="_blank"}
+*   [Yelp](http://www.yelp.com/){:target="_blank"}
+*   [OpenTable](http://www.opentable.com/){:target="_blank"}
+*   [Instapaper](http://www.instapaper.com/u){:target="_blank"}
+*   [Pinterest](http://pinterest.com/){:target="_blank"}
+*   [Quora](http://www.quora.com/){:target="_blank"}
+*   [Quibb](http://quibb.com/stories){:target="_blank"}

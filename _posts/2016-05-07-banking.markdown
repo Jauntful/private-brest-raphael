@@ -1,0 +1,17 @@
+---
+layout: default
+title:  "Banking"
+date:   2016-05-07 21:12:38 -0700
+categories: three
+---
+###### Banking
+*   [Mint](https://wwws.mint.com/login.event){:target="_blank"}
+*   [SF Fire CU](http://www.sffirecu.org/){:target="_blank"}
+*   [FRB](https://www.firstrepublichb.com/onlineserv/HB/Signon.cgi){:target="_blank"}
+*   [Chase](https://www.chase.com/){:target="_blank"}
+*   [Scottrade](https://trading.scottrade.com/){:target="_blank"}
+*   [capitalone360](https://secure.capitalone360.com/myaccount/banking/login.vm){:target="_blank"}
+*   [Vanguard](https://investor.vanguard.com/home){:target="_blank"}
+*   [Fidelity UK](https://www.planviewer.fidelitypensions.com/dcpv/DisplayLogin.do){:target="_blank"}
+*   [Citi Mortgage](http://www.citimortgage.com/){:target="_blank"}
+*   [Paypal](https://www.paypal.com/){:target="_blank"}

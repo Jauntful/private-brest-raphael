@@ -1,0 +1,31 @@
+body {
+  padding: 2rem;
+}
+.card {
+     border: none;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+li {
+  position: relative;
+    display: block;
+    padding: .125rem 0;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+a {
+  color: #222;
+  font-weight: 700;
+}
+a:hover {
+  color: #0275d8;
+}
+h6 {
+  font-size: 0.825rem;
+  color: #999;
+}
