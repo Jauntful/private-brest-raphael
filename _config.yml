@@ -12,18 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/tools" # the subpath of your site, e.g. /blog
-url: "http://grignani.org" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-
-ftp_host: '977design.com'
-ftp_dir: '/public_html/grignani/tools'
-ftp_passive: false
-
-# optional
-ftp_port: 21                  # default 21
-ftp_username: 'nineseve'     # default read from stdin
-ftp_password: 'mazavage' # default read from stdin
-ftp_secure: false              # default false
