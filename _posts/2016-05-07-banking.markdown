@@ -6,6 +6,8 @@ categories: three
 ---
 ###### Banking
 *   [Mint](https://wwws.mint.com/login.event){:target="_blank"}
+*   [Personal Capital](https://home.personalcapital.com/page/login/app#/dashboard){:target="_blank"}
+*   [YNAB](https://app.youneedabudget.com/){:target="_blank"}
 *   [SF Fire CU](http://www.sffirecu.org/){:target="_blank"}
 *   [FRB](https://www.firstrepublichb.com/onlineserv/HB/Signon.cgi){:target="_blank"}
 *   [Chase](https://www.chase.com/){:target="_blank"}
@@ -15,3 +17,5 @@ categories: three
 *   [Fidelity UK](https://www.planviewer.fidelitypensions.com/dcpv/DisplayLogin.do){:target="_blank"}
 *   [Citi Mortgage](http://www.citimortgage.com/){:target="_blank"}
 *   [Paypal](https://www.paypal.com/){:target="_blank"}
+
+
