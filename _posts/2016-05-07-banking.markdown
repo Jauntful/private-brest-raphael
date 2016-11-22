@@ -11,7 +11,6 @@ categories: three
 *   [SF Fire CU](http://www.sffirecu.org/){:target="_blank"}
 *   [FRB](https://www.firstrepublichb.com/onlineserv/HB/Signon.cgi){:target="_blank"}
 *   [Chase](https://www.chase.com/){:target="_blank"}
-*   [Scottrade](https://trading.scottrade.com/){:target="_blank"}
 *   [capitalone360](https://secure.capitalone360.com/myaccount/banking/login.vm){:target="_blank"}
 *   [Vanguard](https://investor.vanguard.com/home){:target="_blank"}
 *   [Fidelity UK](https://www.planviewer.fidelitypensions.com/dcpv/DisplayLogin.do){:target="_blank"}
