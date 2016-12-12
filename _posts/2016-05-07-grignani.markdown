@@ -7,4 +7,3 @@ categories: two
 
 ###### Grignani.org
 *   [grignani.org](http://www.grignani.org/){:target="_blank"}
-*   [WordPress](http://grignani.org/wp-admin/my-sites.php){:target="_blank"}
