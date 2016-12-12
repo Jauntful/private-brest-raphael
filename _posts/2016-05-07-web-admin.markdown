@@ -8,4 +8,4 @@ categories: two
 ###### Web admin
 *   [cPanel](http://977design.com/cpanel/){:target="_blank"}
 *   [DSL router](http://192.168.0.1/){:target="_blank"}
-*   [HomeServer](http://192.168.0.2/){:target="_blank"}
+*   [Synology](http://find.synology.com/){:target="_blank"}
