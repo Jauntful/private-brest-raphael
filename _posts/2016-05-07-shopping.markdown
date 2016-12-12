@@ -6,10 +6,7 @@ categories: three
 ---
 ###### Shopping
 *   [Amazon](http://www.amazon.com/){:target="_blank"}
-*   [eBay](http://www.ebay.com/){:target="_blank"}
 *   [Craigslist](http://sfbay.craigslist.org/){:target="_blank"}
 *   [Zappos](http://vip.zappos.com/){:target="_blank"}
-*   [Retail Me Not](http://www.retailmenot.com/){:target="_blank"}
 *   [Pricegrabber](http://www.pricegrabber.com/){:target="_blank"}
-*   [Best Vendor](http://www.bestvendor.com/){:target="_blank"}
 *   [Apple Store](http://store.apple.com/us/go/eppstore/nokia){:target="_blank"}
