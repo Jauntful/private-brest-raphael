@@ -8,7 +8,7 @@ categories: four
 *   [Mgr of Mgrs](https://groups.google.com/a/pinterest.com/forum/#!forum/managers-of-managers){:target="_blank"}
 *   [One Login](https://pinterest.onelogin.com/client/apps){:target="_blank"}
 *   [Corp Traveler](https://portal.corporatetraveler.us/PINTEREST){:target="_blank"}
-*   [ADP](https://ipay.adp.com/iPay/login.jsf){:target="_blank"}
+*   [ADP](https://my.adp.com/static/redbox/1.20.0.138/#/pay){:target="_blank"}
 *   [wageworks](https://participant.wageworks.com/){:target="_blank"}
 *   [Solium](https://www.solium.com/login){:target="_blank"}
 
