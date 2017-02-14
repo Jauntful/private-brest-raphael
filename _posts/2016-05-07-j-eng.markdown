@@ -7,7 +7,7 @@ categories: two
 
 ###### Jauntful engineering
 *   [GitHub](https://github.com/){:target="_blank"}
-*   [Heroku](https://api.heroku.com/myapps/detourist-www){:target="_blank"}
+*   [Heroku](https://dashboard.heroku.com/apps){:target="_blank"}
 *   [AWS](https://console.aws.amazon.com/){:target="_blank"}
 *   [www Staging](https://jauntful-staging.herokuapp.com/){:target="_blank"}
 *   [www Admin](http://jauntful-admin.herokuapp.com/){:target="_blank"}
