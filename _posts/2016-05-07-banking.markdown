@@ -5,8 +5,6 @@ date:   2016-05-07 21:12:38 -0700
 categories: three
 ---
 ###### Banking
-*   [Mint](https://wwws.mint.com/login.event){:target="_blank"}
-*   [Personal Capital](https://home.personalcapital.com/page/login/app#/dashboard){:target="_blank"}
 *   [YNAB](https://app.youneedabudget.com/){:target="_blank"}
 *   [SF Fire CU](http://www.sffirecu.org/){:target="_blank"}
 *   [FRB](https://www.firstrepublichb.com/onlineserv/HB/Signon.cgi){:target="_blank"}
