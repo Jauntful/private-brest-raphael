@@ -6,3 +6,5 @@ categories: four
 ---
 ###### French American
 *   [FAIS](https://www.frenchamericansf.org){:target="_blank"}
+*   [Class Diary](https://frenchamericansf.learning.powerschool.com/u/rgrignani/portal){:target="_blank"}
+
