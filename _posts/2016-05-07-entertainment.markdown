@@ -5,8 +5,6 @@ date:   2016-05-07 21:12:38 -0700
 categories: one
 ---
 ###### Entertainment
-*   [Hulu](http://www.hulu.com/){:target="_blank"}
 *   [Netflix](http://www.netflix.com/){:target="_blank"}
-*   [KCRW](http://www.kcrw.com/){:target="_blank"}
-*   [ATDHENET](http://atdhenet.tv/){:target="_blank"}
-*   [Can I Stream it?](http://www.canistream.it/){:target="_blank"}
+*   [Amazon Video](https://www.amazon.com/Amazon-Video/b/?&node=2858778011&ref=dvm_MLP_ROWNA_US_1){:target="_blank"}
+*   [letterboxd](https://letterboxd.com/){:target="_blank"}
