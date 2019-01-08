@@ -6,6 +6,5 @@ categories: four
 ---
 ###### Cars
 *   [My Chevrolet](https://my.chevrolet.com/home){:target="_blank"}
-*   [EVgo](https://www.evgo.com/){:target="_blank"}
 *   [ChargePoint](https://www.chargepoint.com/){:target="_blank"}
 
