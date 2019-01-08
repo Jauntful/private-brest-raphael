@@ -5,7 +5,6 @@ date:   2016-01-01 21:12:38 -0700
 categories: one
 ---
 ###### Morning coffee
-*   [Feedly](http://cloud.feedly.com/#category%2Ftrends){:target="_blank"}
 *   [PinBoard](http://pinboard.in/u:grraph){:target="_blank"}
 *   [Twitter](https://twitter.com/){:target="_blank"}
 *   [Instagram](http://instagram.com/){:target="_blank"}
