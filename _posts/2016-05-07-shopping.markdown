@@ -7,6 +7,4 @@ categories: three
 ###### Shopping
 *   [Amazon](http://www.amazon.com/){:target="_blank"}
 *   [Craigslist](http://sfbay.craigslist.org/){:target="_blank"}
-*   [Zappos](http://vip.zappos.com/){:target="_blank"}
-*   [Pricegrabber](http://www.pricegrabber.com/){:target="_blank"}
 *   [Apple Store](http://store.apple.com/us/go/eppstore/nokia){:target="_blank"}
