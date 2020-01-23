@@ -7,4 +7,3 @@ categories: four
 ###### Resources
 *   [Rocket Lawyer](https://www.rocketlawyer.com/app.rl/){:target="_blank"}
 *   [Cross-over Health](https://life-at.crossoverhealth.com/){:target="_blank"}
-*   [Cross-over Health](https://life-at.crossoverhealth.com/){:target="_blank"}
