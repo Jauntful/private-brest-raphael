@@ -7,6 +7,4 @@ categories: one
 ###### I must be bored
 *   [Facebook](http://www.facebook.com/){:target="_blank"}
 *   [LinkedIn](https://www.linkedin.com/uas/login){:target="_blank"}
-*   [Yelp](http://www.yelp.com/){:target="_blank"}
-*   [OpenTable](http://www.opentable.com/){:target="_blank"}
 *   [Pinterest](http://pinterest.com/){:target="_blank"}
