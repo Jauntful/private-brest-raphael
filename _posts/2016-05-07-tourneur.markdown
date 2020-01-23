@@ -10,7 +10,6 @@ categories: two
 *   [Shippo](https://apps.goshippo.com/orders){:target="_blank"}
 *   [FB Business Manager](https://business.facebook.com/home/accounts?business_id=678968032263769){:target="_blank"}
 *   [FB Analytics](https://business.facebook.com/analytics/1797924330458069/){:target="_blank"}
-*   [Google Merchants](https://merchants.google.com/mc/items?a=115801211){:target="_blank"}
 *   [Wave](https://www.waveapps.com/){:target="_blank"}
 *   [Expensify](https://www.expensify.com/){:target="_blank"}
 *   [Google Admin](https://www.google.com/a/cpanel/tourneur.co/CPanelHome){:target="_blank"}
