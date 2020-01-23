@@ -7,7 +7,7 @@ categories: two
 
 ###### Tourneur
 *   [Shopify Admin](https://tourneur.myshopify.com/admin){:target="_blank"}
-*   [Whiplash](https://www.getwhiplash.com/){:target="_blank"}
+*   [Shippo](https://apps.goshippo.com/orders){:target="_blank"}
 *   [FB Business Manager](https://business.facebook.com/home/accounts?business_id=678968032263769){:target="_blank"}
 *   [FB Analytics](https://business.facebook.com/analytics/1797924330458069/){:target="_blank"}
 *   [Google Merchants](https://merchants.google.com/mc/items?a=115801211){:target="_blank"}
