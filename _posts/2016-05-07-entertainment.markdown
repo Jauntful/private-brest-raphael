@@ -6,5 +6,6 @@ categories: one
 ---
 ###### Entertainment
 *   [Netflix](http://www.netflix.com/){:target="_blank"}
-*   [Amazon Video](https://www.amazon.com/Amazon-Video/b/?&node=2858778011&ref=dvm_MLP_ROWNA_US_1){:target="_blank"}
-*   [letterboxd](https://letterboxd.com/){:target="_blank"}
+*   [Amazon Video](https://www.amazon.com/Amazon-Video/b/?ie=UTF8&node=2858778011&ref_=nav_cs_prime_video){:target="_blank"}
+*   [HBO Max](https://www.hbomax.com){:target="_blank"}
+*   [Hulu](http://www.hulu.com/){:target="_blank"}
