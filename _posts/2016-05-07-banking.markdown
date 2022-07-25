@@ -13,5 +13,5 @@ categories: three
 *   [Chase](https://www.chase.com/){:target="_blank"}
 *   [Vanguard](https://investor.vanguard.com/home){:target="_blank"}
 *   [Fidelity UK](https://www.planviewer.fidelitypensions.com/dcpv/DisplayLogin.do){:target="_blank"}
-*   [Wells Fargo Mortgage](https://www.wellsfargo.com){:target="_blank"}
-*   [Newrez Mortgage](https://myloan.newrez.com/){:target="_blank"}
+
+
