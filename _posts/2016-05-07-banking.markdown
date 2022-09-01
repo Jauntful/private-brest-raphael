@@ -7,7 +7,7 @@ categories: four
 ###### Banking
 *   [YNAB](https://app.youneedabudget.com/){:target="_blank"}
 *   [FRB](https://www.firstrepublichb.com/onlineserv/HB/Signon.cgi){:target="_blank"}
-*   [SF Fire CU](http://www.sffirecu.org/){:target="_blank"}
+*   [SF Fire CU](https://www.sffirecu.org/){:target="_blank"}
 *   [Banque Transatlantique](https://www.banquetransatlantique.com){:target="_blank"}
 *   [Amex](https://www.americanexpress.com/){:target="_blank"}
 *   [Chase](https://www.chase.com/){:target="_blank"}
