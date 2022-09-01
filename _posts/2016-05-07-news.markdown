@@ -5,8 +5,8 @@ date:   2016-05-07 21:12:38 -0700
 categories: one
 ---
 ###### News
-*   [NYT](http://www.nytimes.com/){:target="_blank"}
-*   [Liberation](http://www.liberation.com/){:target="_blank"}
-*   [Le Monde](http://www.lemonde.fr/){:target="_blank"}
-*   [The Onion](http://www.theonion.com/){:target="_blank"}
-*   [Guardian](http://www.guardian.co.uk/){:target="_blank"}
+*   [NYT](https://www.nytimes.com/){:target="_blank"}
+*   [Liberation](https://www.liberation.com/){:target="_blank"}
+*   [Le Monde](https://www.lemonde.fr/){:target="_blank"}
+*   [The Onion](https://www.theonion.com/){:target="_blank"}
+*   [Guardian](https://www.guardian.co.uk/){:target="_blank"}
