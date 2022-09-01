@@ -5,6 +5,6 @@ date:   2016-01-02 21:12:38 -0700
 categories: one
 ---
 ###### I must be bored
-*   [Facebook](http://www.facebook.com/){:target="_blank"}
+*   [Facebook](https://www.facebook.com/){:target="_blank"}
 *   [LinkedIn](https://www.linkedin.com/uas/login){:target="_blank"}
-*   [Pinterest](http://pinterest.com/){:target="_blank"}
+*   [Pinterest](https://pinterest.com/){:target="_blank"}
