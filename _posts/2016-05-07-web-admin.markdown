@@ -6,5 +6,4 @@ categories: two
 ---
 
 ###### Web admin
-*   [cPanel](http://977design.com/cpanel/){:target="_blank"}
-*   [Synology](http://find.synology.com/){:target="_blank"}
+*   [Synology](https://find.synology.com/){:target="_blank"}
