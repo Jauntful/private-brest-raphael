@@ -13,5 +13,5 @@ categories: four
 *   [Chase](https://www.chase.com/){:target="_blank"}
 *   [Vanguard](https://investor.vanguard.com/home){:target="_blank"}
 *   [Fidelity UK](https://www.planviewer.fidelitypensions.com/dcpv/DisplayLogin.do){:target="_blank"}
-
+*   [Lincoln Financial](https://wealth.emaplan.com/ema/SignIn?ema%2Femx%2Flfn%2Flfa%2Fnapa){:target="_blank"}
 
