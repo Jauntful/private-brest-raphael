@@ -1,8 +1,0 @@
----
-layout: default
-title:  "Crypto"
-date:   2018-01-09 21:12:39 -0600
-categories: four
----
-###### Crypto
-*   [Binance](https://www.binance.com/){:target="_blank"}
