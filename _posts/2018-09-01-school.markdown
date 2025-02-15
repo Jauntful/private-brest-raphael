@@ -1,11 +1,8 @@
 ---
 layout: default
-title:  "Crypto"
+title:  "School"
 date:   2018-09-01 21:12:39 -0600
 categories: four
 ---
-###### French American
-*   [FAIS](https://www.frenchamericansf.org){:target="_blank"}
-*   [Power School](https://frenchamericansf.learning.powerschool.com/do/account/login){:target="_blank"}
-*   [FACTS Payments](https://online.factsmgt.com/payments/consumer/user/3357939/inst/None/home/){:target="_blank"}
-*   [Ravenna Tuition 22/23](https://secure.ravenna-tuition.com/){:target="_blank"}
+###### ECS
+*   [x](https://www.x.com){:target="_blank"}
