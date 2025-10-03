@@ -6,6 +6,6 @@ categories: four
 ---
 ###### Cars
 *   [Tesla](https://tesla.com/home){:target="_blank"}
-*   [Hagerty](https://www.hagerty.com/insurance/classic-car-insurance-ppc){:target="_blank"}
+*   [Pure](https://pureinsurance.my.site.com/LoginPage){:target="_blank"}
 *   [DMV](https://www.dmv.ca.gov/portal/){:target="_blank"}
 
