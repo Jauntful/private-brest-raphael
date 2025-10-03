@@ -10,5 +10,5 @@ categories: four
 *   [Amex](https://www.americanexpress.com/){:target="_blank"}
 *   [Chase](https://www.chase.com/){:target="_blank"}
 *   [Fidelity UK](https://www.planviewer.fidelitypensions.com/dcpv/DisplayLogin.do){:target="_blank"}
-*   [Lincoln Financial](https://wealth.emaplan.com/ema/SignIn?ema%2Femx%2Flfn%2Flfa%2Fnapa){:target="_blank"}
+*   [Osaic](https://app.osaic.com/equipt/login){:target="_blank"}
 
