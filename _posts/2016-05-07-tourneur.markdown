@@ -7,6 +7,6 @@ categories: two
 
 ###### Tourneur
 *   [Shopify Admin](https://tourneur.myshopify.com/admin){:target="_blank"}
-*   [Shippo](https://apps.goshippo.com/orders){:target="_blank"}
+*   [Shiptrex](https://shipsfor.us/dashboard/shipping-plans/summary/?id=3236241){:target="_blank"}
 *   [Wave](https://www.waveapps.com/){:target="_blank"}
 *   [Google Admin](https://www.google.com/a/cpanel/tourneur.co/CPanelHome){:target="_blank"}
